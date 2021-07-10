@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Common/ConfirmDialog/styles.css","webpack://src/index.css"],"names":[],"mappings":"AAAA,YACE,kCACF,CCFA,KACE,6DACF","file":"main.dc33c93b.chunk.css","sourcesContent":[".btn-danger {\r\n  background-color: #dc3545 !important;\r\n}","body {\r\n  background-image: url('./images/bg.jpg');\r\n}"]}
